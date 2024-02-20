@@ -18,7 +18,8 @@ https://github.com/rileyclos/ModernOldWin/
 One issue you might have come across are drivers. Many manufacturers don't make drivers for Windows 7 anymore which is obviously a problem for this undertaking.
 
 Nvidia Drivers:
-https://www.nvidia.com/download/driverResults.aspx/180551/en-us/
+[https://www.nvidia.com/download/driverResults.aspx/180551/en-us/](https://www.nvidia.com/Download/index.aspx?lang=en-us)
 Somewhat up to date drivers for Nvidia GPUs.
 All GPUs up to the RTX 30 generation have official drivers released by Nvidia.
+RTX 40 Series cards do not have official drivers by Nvidia and unless you're gonna write the drivers yourself, it's not gonna work.
 
