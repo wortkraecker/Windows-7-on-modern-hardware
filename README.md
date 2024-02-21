@@ -38,10 +38,17 @@ Many drivers are avaliable on the WinRaid site:
 https://winraid.level1techs.com/c/operating-systems/windows-7-vista-server-2008/35/none
 
 
-#Enabling Windows 7 Installation on UEFI Class 3 Systems
+# Enabling Windows 7 Installation on UEFI Class 3 Systems
 
-For those looking to install Windows 7 on hardware with UEFI Class 3 systems, lacking legacy BIOS support, "UefiSeven" offers a crucial workaround. This EFI loader emulates the necessary Int10h interrupts, allowing Windows 7 to boot where it otherwise couldn't.
+To install Windows 7 on hardware with UEFI Class 3 systems, lacking legacy BIOS support, "UefiSeven" offers a crucial workaround. This EFI loader emulates the necessary Int10h interrupts, allowing Windows 7 to boot where it otherwise couldn't.
 Visit the repo here: https://github.com/manatails/uefiseven
+
+
+# Streamlining Windows 7 and Server 2008 R2 Updates with UpdatePack7R2
+
+UpdatePack7R2 offers a seamless solution for integrating and installing the latest updates for Windows 7 SP1 and Server 2008 R2 SP1 systems. This comprehensive package supports all versions and architectures, simplifying the process of keeping your system up to date. For a detailed guide on using UpdatePack7R2 to streamline your updates, visit this webpage:
+https://blog.simplix.info/update7/
+(website is in ukrainian)
 
 
 
