@@ -23,3 +23,22 @@ Somewhat up to date drivers for Nvidia GPUs.
 All GPUs up to the RTX 30 generation have official drivers released by Nvidia.
 RTX 40 Series cards do not have official drivers by Nvidia and unless you're gonna write the drivers yourself, it's not gonna work.
 
+AMD Drivers:
+
+I am still looking lol
+
+
+Chipset and other drivers:
+
+https://winraid.level1techs.com/t/solution-win7-8-1-drivers-for-usb-3-0-3-1-controllers-of-new-amd-chipset-systems/33603/2
+
+https://winraid.level1techs.com/t/video-how-to-get-win7-installed-onto-modern-intel-chipset-systems-with-an-8th-gen-cpu-plus-drivers/33570
+
+Many drivers are avaliable on the WinRaid site:
+https://winraid.level1techs.com/c/operating-systems/windows-7-vista-server-2008/35/none
+
+
+
+
+
+
