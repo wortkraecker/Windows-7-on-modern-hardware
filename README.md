@@ -51,6 +51,11 @@ https://blog.simplix.info/update7/
 (website is in ukrainian)
 
 
+# Tiny7
+Tiny7 is a lightweight Windows 7 version
+https://archive.org/details/Windows_Tiny7
+
+
 
 
 
