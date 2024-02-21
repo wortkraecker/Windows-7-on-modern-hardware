@@ -38,6 +38,14 @@ Many drivers are avaliable on the WinRaid site:
 https://winraid.level1techs.com/c/operating-systems/windows-7-vista-server-2008/35/none
 
 
+#Enabling Windows 7 Installation on UEFI Class 3 Systems
+
+For those looking to install Windows 7 on hardware with UEFI Class 3 systems, lacking legacy BIOS support, "UefiSeven" offers a crucial workaround. This EFI loader emulates the necessary Int10h interrupts, allowing Windows 7 to boot where it otherwise couldn't.
+Visit the repo here: https://github.com/manatails/uefiseven
+
+
+
+
 
 
 
