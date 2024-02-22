@@ -7,6 +7,10 @@ For a lot of people, Windows 10/11 just isn't up to par with Windows 7 and want 
 But enough with the chit chat, let's get to it.
 In this repo I wanna share all tips, tweaks and software that might make Windows 7 usable again. 
 
+# Frameworks Updates Patches and Tweaks
+In this repo you can find important software and files to improve your Windows 7 experience: 
+https://github.com/kuba2k2/i-use-win7-btw
+
 # Installation Media
 A detailed process involving the preparation of installation media, integrating the old ISO files with modern hardware drivers, and troubleshooting tips can be found in this repo:
 https://github.com/rileyclos/ModernOldWin/
