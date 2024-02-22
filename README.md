@@ -29,7 +29,7 @@ RTX 40 Series cards do not have official drivers by Nvidia and unless you're gon
 
 AMD Drivers:
 
-I am still looking lol
+https://www.amd.com/en/support/kb/release-notes/rn-rad-win-21-5-2
 
 
 Chipset and other drivers:
